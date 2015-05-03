@@ -1,19 +1,19 @@
-title:            Sahat Yalkabov
-description:      "Full-Stack JavaScript Developer"
+title:            Apollo Namalu
+description:      ""
 disqus_shortname: sahat
 url:              http://sahatyalkabov.com
 logo:             js.jpg
 
 owner:
-  name:           Sahat Yalkabov
-  bio:            "I'm a full-stack JavaScript developer from NYC. Hacker School (Summer 2014). CCNY Class of 2014."
-  email:          sahat@me.com
-  twitter:        EvNowAndForever
-  facebook:       NeverSleepNeverDie
-  github:         sahat
-  linkedin:       sahatyalkabov
-  instagram:      13reasons
-  google_plus:    +SahatYalkabov
+  name:           Apollo Namalu
+  bio:            ""
+  email:          apollosmedia@gmail.com
+  twitter:        
+  facebook:       
+  github:         
+  linkedin:       
+  instagram:      
+  google_plus:    
 
 # Links to include in top navigation
 # For external links add external: true
@@ -21,7 +21,7 @@ links:
   - title: Projects
     url: /projects
   - title: GitHub Profile
-    url: https://github.com/sahat
+    url: https://github.com/anamalu
     external: true
 
 timezone:    America/New_York
